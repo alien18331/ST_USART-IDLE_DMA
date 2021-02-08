@@ -1,0 +1,6 @@
+usart.c:32:6:MX_USART2_UART_Init	8	static
+usart.c:54:6:HAL_UART_MspInit	48	static
+usart.c:114:6:HAL_UART_MspDeInit	16	static
+usart.c:157:1:__io_putchar	16	static
+usart.c:166:6:USER_UART_IRQHandler	16	static
+usart.c:179:6:USAR_UART_IDLECallback	24	static
